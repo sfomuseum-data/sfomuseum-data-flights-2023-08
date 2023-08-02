@@ -2,10 +2,12 @@
   "id": 1864281749,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-01",
+    "date:cessation_upper": "2023-08-01",
     "date:inception_lower": "2023-08-01",
     "date:inception_upper": "2023-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-01",
+    "edtf:cessation": "2023-08-01T08:17:03-07:00",
+    "edtf:inception": "2023-08-01T20:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230801-A-DLH-7545",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N448UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44706666",
+      "swim:gufi": "KA65946300"
+    },
     "wof:country": "US",
     "wof:created": 1690992801,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1864281749,
     "wof:involves": [
-      102527513,
       102526751,
       1159285413,
       1763588353,
-      1159286015
+      1159286015,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1690992801,
+    "wof:lastmodified": 1690993654,
     "wof:name": "UA1152 (PHX-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

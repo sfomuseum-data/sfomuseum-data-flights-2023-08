@@ -2,10 +2,12 @@
   "id": 1864281077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-01",
+    "date:cessation_upper": "2023-08-01",
     "date:inception_lower": "2023-08-01",
     "date:inception_upper": "2023-08-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-01",
+    "edtf:cessation": "2023-08-01T19:23:49Z",
+    "edtf:inception": "2023-08-01T09:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -58.794018,
     "iata:airline": "KL",
     "iata:base_airline": "",
+    "icao:aircraft": "B78X",
     "icao:airline": "KLM",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564289,
     "sfomuseum:airline_id": 1159284613,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230801-A-AFR-8402",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "PHBKM",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44633703"
+    },
     "wof:country": "US",
     "wof:created": 1690992641,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1864281077,
     "wof:involves": [
+      1159283627,
+      1377564289,
       102527513,
       102542801,
       1159284613,
-      1763588405,
-      1159283627
+      1763588405
     ],
-    "wof:lastmodified": 1690992641,
+    "wof:lastmodified": 1690993653,
     "wof:name": "KL605 (AMS-SFO)",
     "wof:parent_id": 1763588405,
     "wof:placetype": "custom",
