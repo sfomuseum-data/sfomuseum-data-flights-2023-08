@@ -2,10 +2,12 @@
   "id": 1864288013,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-02",
+    "date:cessation_upper": "2023-08-02",
     "date:inception_lower": "2023-08-02",
     "date:inception_upper": "2023-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-02",
+    "edtf:cessation": "2023-08-02T23:48:00Z",
+    "edtf:inception": "2023-08-02T21:07:32Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44833089"
+    },
     "wof:country": "US",
     "wof:created": 1691078785,
     "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
@@ -92,7 +97,7 @@
       1763588407,
       1159285043
     ],
-    "wof:lastmodified": 1691078785,
+    "wof:lastmodified": 1691080166,
     "wof:name": "AS1427 (SJD-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

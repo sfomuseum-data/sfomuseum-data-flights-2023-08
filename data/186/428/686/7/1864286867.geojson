@@ -2,10 +2,12 @@
   "id": 1864286867,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-08-02",
-    "date:inception_upper": "2023-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-02",
+    "date:cessation_lower": "2023-08-03",
+    "date:cessation_upper": "2023-08-03",
+    "date:inception_lower": "2023-08-03",
+    "date:inception_upper": "2023-08-03",
+    "edtf:cessation": "2023-08-02T18:14:43-07:00",
+    "edtf:inception": "2023-08-03T05:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.7109545,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230802-A-BAW-2495",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N579UW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44824570",
+      "swim:gufi": "KF18363500"
+    },
     "wof:country": "US",
     "wof:created": 1691078454,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1864286867,
     "wof:involves": [
-      102527513,
       102528541,
       1159283849,
       1763588219,
-      1159284021
+      1159284021,
+      1377564297,
+      102527513
     ],
-    "wof:lastmodified": 1691078454,
+    "wof:lastmodified": 1691080162,
     "wof:name": "AA2388 (DFW-SFO)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",

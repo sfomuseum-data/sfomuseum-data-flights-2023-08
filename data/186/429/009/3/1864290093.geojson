@@ -2,10 +2,12 @@
   "id": 1864290093,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-02",
+    "date:cessation_upper": "2023-08-02",
     "date:inception_lower": "2023-08-02",
     "date:inception_upper": "2023-08-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-02",
+    "edtf:cessation": "2023-08-02T20:27:00Z",
+    "edtf:inception": "2023-08-02T19:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B737",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230802-A-CCA-7381",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44791607"
+    },
     "wof:country": "US",
     "wof:created": 1691079310,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1864290093,
     "wof:involves": [
+      1159283605,
+      1159289869,
       102527513,
       102533795,
       1159285413,
-      1763588321,
-      1159283605
+      1763588321
     ],
-    "wof:lastmodified": 1691079310,
+    "wof:lastmodified": 1691080178,
     "wof:name": "UA2650 (LAX-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",
