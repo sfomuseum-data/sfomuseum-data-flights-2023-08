@@ -2,10 +2,12 @@
   "id": 1864300791,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-03",
+    "date:cessation_upper": "2023-08-03",
     "date:inception_lower": "2023-08-03",
     "date:inception_upper": "2023-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-03",
+    "edtf:cessation": "2023-08-03T22:24:00Z",
+    "edtf:inception": "2023-08-03T07:04:12-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20230803-D-KAL-6743",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N810DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "44951402",
+      "swim:gufi": "KO71762500"
+    },
     "wof:country": "US",
     "wof:created": 1691166362,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1864300791,
     "wof:involves": [
+      1377564285,
       102527363,
       102527513,
       1159284261,
       1763588239,
       1159284625
     ],
-    "wof:lastmodified": 1691166362,
+    "wof:lastmodified": 1691166667,
     "wof:name": "DL764 (SFO-SLC)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",

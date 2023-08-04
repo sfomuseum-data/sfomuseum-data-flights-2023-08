@@ -2,10 +2,12 @@
   "id": 1864296241,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-03",
+    "date:cessation_upper": "2023-08-03",
     "date:inception_lower": "2023-08-03",
     "date:inception_upper": "2023-08-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-03",
+    "edtf:cessation": "2023-08-03T04:48:08-07:00",
+    "edtf:inception": "2023-08-03T17:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2023-08-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N936AK",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "44965679"
+    },
     "wof:country": "US",
     "wof:created": 1691165202,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1864296241,
     "wof:involves": [
+      1528104577,
       102527513,
       102533795,
-      1159283813,
-      -1
+      1159283813
     ],
-    "wof:lastmodified": 1691165202,
+    "wof:lastmodified": 1691166670,
     "wof:name": "AS9801 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
