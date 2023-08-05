@@ -2,10 +2,12 @@
   "id": 1864306669,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-04",
+    "date:cessation_upper": "2023-08-04",
     "date:inception_lower": "2023-08-04",
     "date:inception_upper": "2023-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-04",
+    "edtf:cessation": "2023-08-04T03:37:43-07:00",
+    "edtf:inception": "2023-08-04T15:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-08-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555307,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N452UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "45102274",
+      "swim:gufi": "KS51186600"
+    },
     "wof:country": "US",
     "wof:created": 1691252104,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1864306669,
     "wof:involves": [
-      102527513,
-      102555307,
       1159285413,
-      -1
+      1159292085,
+      102527513,
+      102555307
     ],
-    "wof:lastmodified": 1691252104,
+    "wof:lastmodified": 1691252927,
     "wof:name": "UA3854 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1864308675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-04",
+    "date:cessation_upper": "2023-08-04",
     "date:inception_lower": "2023-08-04",
     "date:inception_upper": "2023-08-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-04",
+    "edtf:cessation": "2023-08-04T22:31:29Z",
+    "edtf:inception": "2023-08-04T17:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20230804-D-AAL-7433",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N928VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "45049344"
+    },
     "wof:country": "US",
     "wof:created": 1691252573,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1864308675,
     "wof:involves": [
+      1377564297,
       102528817,
       102527513,
       1159283813,
       1763588145,
       1159283849
     ],
-    "wof:lastmodified": 1691252573,
+    "wof:lastmodified": 1691252930,
     "wof:name": "AS434 (SFO-IAD)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",
