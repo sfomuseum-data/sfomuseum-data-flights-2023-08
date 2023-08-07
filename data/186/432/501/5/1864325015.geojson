@@ -2,10 +2,12 @@
   "id": 1864325015,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-06",
+    "date:cessation_upper": "2023-08-06",
     "date:inception_lower": "2023-08-06",
     "date:inception_upper": "2023-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-06",
+    "edtf:cessation": "2023-08-06T02:40:08Z",
+    "edtf:inception": "2023-08-06T01:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20230806-D-AFR-5670",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "45218057",
+      "swim:gufi": "KO02341100"
+    },
     "wof:country": "US",
     "wof:created": 1691425500,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1864325015,
     "wof:involves": [
+      1763588249,
+      1159283627,
+      1159292085,
       102533795,
       102527513,
-      1159284261,
-      1763588249,
-      1159283627
+      1159284261
     ],
-    "wof:lastmodified": 1691425500,
+    "wof:lastmodified": 1691425776,
     "wof:name": "DL2606 (SFO-LAX)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

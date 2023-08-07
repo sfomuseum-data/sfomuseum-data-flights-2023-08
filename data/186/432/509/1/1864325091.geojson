@@ -2,10 +2,12 @@
   "id": 1864325091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-06",
+    "date:cessation_upper": "2023-08-06",
     "date:inception_lower": "2023-08-06",
     "date:inception_upper": "2023-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-06",
+    "edtf:cessation": "2023-08-06T21:12:00Z",
+    "edtf:inception": "2023-08-06T20:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-08-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.669650000000004,
     "geom:longitude": -122.2917035,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531041,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N6711M",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "45303958",
+      "swim:gufi": "KO72051100"
+    },
     "wof:country": "US",
     "wof:created": 1691425518,
     "wof:geomhash": "8933d78fb39ee159acf7eb0738f97ef5",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1864325091,
     "wof:involves": [
+      1159289939,
       102531041,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1691425518,
+    "wof:lastmodified": 1691425783,
     "wof:name": "DL8886 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

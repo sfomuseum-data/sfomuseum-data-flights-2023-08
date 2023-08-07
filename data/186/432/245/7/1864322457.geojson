@@ -2,10 +2,12 @@
   "id": 1864322457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-06",
+    "date:cessation_upper": "2023-08-06",
     "date:inception_lower": "2023-08-06",
     "date:inception_upper": "2023-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-06",
+    "edtf:cessation": "2023-08-06T02:48:55-07:00",
+    "edtf:inception": "2023-08-06T11:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.5210065,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230806-A-ANA-7365",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37422",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "45242847",
+      "swim:gufi": "KW27896100"
+    },
     "wof:country": "US",
     "wof:created": 1691424897,
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1864322457,
     "wof:involves": [
+      1763588159,
+      1159283875,
+      1377564285,
       102527513,
       102532047,
-      1159285413,
-      1763588159,
-      1159283875
+      1159285413
     ],
-    "wof:lastmodified": 1691424897,
+    "wof:lastmodified": 1691425769,
     "wof:name": "UA1387 (BWI-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1864324985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-07",
+    "date:cessation_upper": "2023-08-07",
     "date:inception_lower": "2023-08-06",
     "date:inception_upper": "2023-08-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-06",
+    "edtf:cessation": "2023-08-07T00:21:00Z",
+    "edtf:inception": "2023-08-06T21:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:base_flight_id": "20230806-D-KAL-6739",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N593NW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "45301890",
+      "swim:gufi": "KO70791100"
+    },
     "wof:country": "US",
     "wof:created": 1691425493,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1864324985,
     "wof:involves": [
-      102531131,
-      102527513,
       1159284261,
       1763588251,
-      1159284625
+      1159284625,
+      1159289945,
+      102531131,
+      102527513
     ],
-    "wof:lastmodified": 1691425493,
+    "wof:lastmodified": 1691425775,
     "wof:name": "DL1384 (SFO-MSP)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
