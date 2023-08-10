@@ -2,10 +2,12 @@
   "id": 1864347681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-09",
+    "date:cessation_upper": "2023-08-09",
     "date:inception_lower": "2023-08-09",
     "date:inception_upper": "2023-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-09",
+    "edtf:cessation": "2023-08-09T02:45:31-07:00",
+    "edtf:inception": "2023-08-09T03:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-08-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 1.8415309999999998,
     "geom:longitude": 14.401222499999996,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102557783,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N19951",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "45564203"
+    },
     "wof:country": "US",
     "wof:created": 1691684206,
     "wof:geomhash": "f3115fe3d28c66ab4b94072923e0b1bb",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1864347681,
     "wof:involves": [
-      102527513,
-      102557783,
       1159285413,
-      1763588465
+      1763588465,
+      1159293215,
+      102527513,
+      102557783
     ],
-    "wof:lastmodified": 1691684206,
+    "wof:lastmodified": 1691685057,
     "wof:name": "UA3941 (SYD-SFO)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

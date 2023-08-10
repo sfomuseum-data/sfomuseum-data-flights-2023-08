@@ -2,10 +2,12 @@
   "id": 1864348319,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-09",
+    "date:cessation_upper": "2023-08-09",
     "date:inception_lower": "2023-08-09",
     "date:inception_upper": "2023-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-09",
+    "edtf:cessation": "2023-08-09T21:44:41Z",
+    "edtf:inception": "2023-08-09T19:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "WS",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "WJA",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285523,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230809-A-DAL-7054",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGRAG",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "45634970"
+    },
     "wof:country": "US",
     "wof:created": 1691684361,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1864348319,
     "wof:involves": [
-      102527513,
-      102555307,
       1159285523,
       1763588267,
-      1159284261
+      1159284261,
+      1528104575,
+      102527513,
+      102555307
     ],
-    "wof:lastmodified": 1691684361,
+    "wof:lastmodified": 1691685049,
     "wof:name": "WS1774 (YVR-SFO)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1864346701,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-09",
+    "date:cessation_upper": "2023-08-09",
     "date:inception_lower": "2023-08-09",
     "date:inception_upper": "2023-08-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-09",
+    "edtf:cessation": "2023-08-09T18:30:19Z",
+    "edtf:inception": "2023-08-09T08:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "KL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "45572665"
+    },
     "wof:country": "US",
     "wof:created": 1691683953,
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
@@ -92,7 +97,7 @@
       1763588431,
       1159283627
     ],
-    "wof:lastmodified": 1691683953,
+    "wof:lastmodified": 1691685055,
     "wof:name": "KL605 (AMS-SFO)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",
