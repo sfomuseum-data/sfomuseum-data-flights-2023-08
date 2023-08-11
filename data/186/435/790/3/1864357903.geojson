@@ -2,10 +2,12 @@
   "id": 1864357903,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-11",
+    "date:cessation_upper": "2023-08-11",
     "date:inception_lower": "2023-08-10",
     "date:inception_upper": "2023-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-10",
+    "edtf:cessation": "2023-08-11T01:30:00Z",
+    "edtf:inception": "2023-08-10T23:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "45784567"
+    },
     "wof:country": "US",
     "wof:created": 1691771075,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,7 +97,7 @@
       1763588137,
       1159283849
     ],
-    "wof:lastmodified": 1691771075,
+    "wof:lastmodified": 1691771519,
     "wof:name": "AS1253 (SFO-SEA)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

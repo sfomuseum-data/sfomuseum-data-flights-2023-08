@@ -2,10 +2,12 @@
   "id": 1864355037,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-10",
+    "date:cessation_upper": "2023-08-10",
     "date:inception_lower": "2023-08-10",
     "date:inception_upper": "2023-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-10",
+    "edtf:cessation": "2023-08-10T15:03:05Z",
+    "edtf:inception": "2023-08-10T13:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2023-08-10",
@@ -21,6 +23,7 @@
     "geom:latitude": 38.918857,
     "geom:longitude": -117.0466615,
     "iata:airline": "MX",
+    "icao:aircraft": "E195",
     "icao:airline": "MXY",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
@@ -34,7 +37,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N192BZ",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "45709822"
+    },
     "wof:country": "US",
     "wof:created": 1691770367,
     "wof:geomhash": "d887ded7dd7ecdf1f3f44081817da1ef",
@@ -50,7 +62,7 @@
       1763552131,
       -1
     ],
-    "wof:lastmodified": 1691770367,
+    "wof:lastmodified": 1691771513,
     "wof:name": "MX600 (PVU-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

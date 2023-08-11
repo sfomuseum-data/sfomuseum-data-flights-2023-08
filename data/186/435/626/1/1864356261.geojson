@@ -2,10 +2,12 @@
   "id": 1864356261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-10",
+    "date:cessation_upper": "2023-08-10",
     "date:inception_lower": "2023-08-10",
     "date:inception_upper": "2023-08-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-10",
+    "edtf:cessation": "2023-08-10T00:26:36-07:00",
+    "edtf:inception": "2023-08-10T10:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-08-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.256470999999998,
     "geom:longitude": -139.40440999999998,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532929,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N777UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "45811606",
+      "swim:gufi": "KO46660500"
+    },
     "wof:country": "US",
     "wof:created": 1691770670,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -48,9 +62,9 @@
       102527513,
       102532929,
       1159285413,
-      -1
+      1159289985
     ],
-    "wof:lastmodified": 1691770670,
+    "wof:lastmodified": 1691771527,
     "wof:name": "UA8139 (OGG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
