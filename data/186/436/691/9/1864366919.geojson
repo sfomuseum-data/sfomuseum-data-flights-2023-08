@@ -2,10 +2,12 @@
   "id": 1864366919,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-11",
+    "date:cessation_upper": "2023-08-11",
     "date:inception_lower": "2023-08-11",
     "date:inception_upper": "2023-08-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-11",
+    "edtf:cessation": "2023-08-11T23:25:00Z",
+    "edtf:inception": "2023-08-11T19:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2023-08-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.512417,
     "geom:longitude": -102.103286,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102534019,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "45877648"
+    },
     "wof:country": "US",
     "wof:created": 1691857612,
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
@@ -48,9 +58,9 @@
       102534019,
       102527513,
       1159284401,
-      -1
+      1377564295
     ],
-    "wof:lastmodified": 1691857612,
+    "wof:lastmodified": 1691857841,
     "wof:name": "F92451 (SFO-CLE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
