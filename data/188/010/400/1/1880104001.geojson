@@ -1,0 +1,69 @@
+{
+  "id": 1880104001,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-08-12",
+    "date:inception_upper": "2023-08-12",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-08-12",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "PR",
+    "flysfo:date": "2023-08-12",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "PR126",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-JFK",
+    "flysfo:scheduled_timestamp": 1691889300,
+    "flysfo:timestamp": 1691889300,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "PR",
+    "icao:airline": "PAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285015,
+    "sfomuseum:arrival_id": 102534365,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20230812-D-PAL-126",
+    "sfomuseum:flight_number": [
+      "PAL126",
+      "PR126"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1691944029,
+    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880104001
+      }
+    ],
+    "wof:id": 1880104001,
+    "wof:involves": [
+      102534365,
+      102527513,
+      1159285015,
+      -1
+    ],
+    "wof:lastmodified": 1691944029,
+    "wof:name": "PR126 (SFO-JFK)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -73.787845,
+    40.643286
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
+}
