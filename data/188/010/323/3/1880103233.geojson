@@ -2,10 +2,12 @@
   "id": 1880103233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-12",
+    "date:cessation_upper": "2023-08-12",
     "date:inception_lower": "2023-08-12",
     "date:inception_upper": "2023-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-12",
+    "edtf:cessation": "2023-08-12T23:34:10Z",
+    "edtf:inception": "2023-08-12T07:57:38-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20230812-D-AFR-8605",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N315DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46028768"
+    },
     "wof:country": "US",
     "wof:created": 1691943846,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1880103233,
     "wof:involves": [
-      102533269,
       102527513,
       1159284261,
       1763588245,
-      1159283627
+      1159283627,
+      1813375783,
+      102533269
     ],
-    "wof:lastmodified": 1691943846,
+    "wof:lastmodified": 1691944142,
     "wof:name": "DL1517 (SFO-SEA)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

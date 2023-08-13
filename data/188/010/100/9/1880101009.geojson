@@ -2,10 +2,12 @@
   "id": 1880101009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-12",
+    "date:cessation_upper": "2023-08-12",
     "date:inception_lower": "2023-08-12",
     "date:inception_upper": "2023-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-12",
+    "edtf:cessation": "2023-08-12T06:09:58-07:00",
+    "edtf:inception": "2023-08-12T18:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-08-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N215UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46002171",
+      "swim:gufi": "KD58512700"
+    },
     "wof:country": "US",
     "wof:created": 1691943324,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -84,9 +97,10 @@
       102527513,
       102531189,
       1159285413,
-      1763588309
+      1763588309,
+      1159289985
     ],
-    "wof:lastmodified": 1691943324,
+    "wof:lastmodified": 1691944132,
     "wof:name": "UA3904 (DEN-SFO)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

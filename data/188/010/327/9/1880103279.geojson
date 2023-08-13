@@ -2,10 +2,12 @@
   "id": 1880103279,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2023-08-12",
     "date:inception_upper": "2023-08-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-12",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-08-12T15:13:35-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20230812-D-LAN-6692",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N501DA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +95,14 @@
     ],
     "wof:id": 1880103279,
     "wof:involves": [
+      1763588247,
+      1159285641,
+      1377564297,
       102530741,
       102527513,
-      1159284261,
-      1763588247,
-      1159285641
+      1159284261
     ],
-    "wof:lastmodified": 1691943857,
+    "wof:lastmodified": 1691944142,
     "wof:name": "DL475 (SFO-BOS)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",
