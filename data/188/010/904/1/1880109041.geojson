@@ -2,10 +2,12 @@
   "id": 1880109041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-13",
+    "date:cessation_upper": "2023-08-13",
     "date:inception_lower": "2023-08-13",
     "date:inception_upper": "2023-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-13",
+    "edtf:cessation": "2023-08-13T07:59:00Z",
+    "edtf:inception": "2023-08-13T03:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-08-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.256470999999998,
     "geom:longitude": -139.40440999999998,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532929,
@@ -48,6 +52,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46060151",
+      "swim:gufi": "KO23569100"
+    },
     "wof:country": "US",
     "wof:created": 1692029828,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1880109041,
     "wof:involves": [
-      102527513,
-      102532929,
       1159285413,
-      1763588317
+      1763588317,
+      1159293215,
+      102527513,
+      102532929
     ],
-    "wof:lastmodified": 1692029828,
+    "wof:lastmodified": 1692030743,
     "wof:name": "UA3027 (OGG-SFO)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",

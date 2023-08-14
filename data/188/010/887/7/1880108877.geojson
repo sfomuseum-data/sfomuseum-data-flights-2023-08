@@ -2,10 +2,12 @@
   "id": 1880108877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-13",
+    "date:cessation_upper": "2023-08-13",
     "date:inception_lower": "2023-08-13",
     "date:inception_upper": "2023-08-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-13",
+    "edtf:cessation": "2023-08-13T15:53:00Z",
+    "edtf:inception": "2023-08-13T10:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-08-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.475248999999998,
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533997,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "46069502",
+      "swim:gufi": "KO42846100"
+    },
     "wof:country": "US",
     "wof:created": 1692029785,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1880108877,
     "wof:involves": [
+      1159289939,
       102527513,
       102533997,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1692029785,
+    "wof:lastmodified": 1692030742,
     "wof:name": "UA1806 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
