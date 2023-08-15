@@ -2,10 +2,12 @@
   "id": 1880117339,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-14",
+    "date:cessation_upper": "2023-08-14",
     "date:inception_lower": "2023-08-14",
     "date:inception_upper": "2023-08-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-14",
+    "edtf:cessation": "2023-08-14T05:19:00Z",
+    "edtf:inception": "2023-08-14T01:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "SAS",
     "lbl:latitude": 37.620244,
     "lbl:longitude": -122.387813,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230814-A-SAS-3972",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46159429",
+      "swim:gufi": "KG81846100"
+    },
     "wof:country": "US",
     "wof:created": 1692116106,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880117339,
     "wof:involves": [
+      1159285129,
+      1159289945,
       102527513,
       102533631,
       1159285413,
-      1763588307,
-      1159285129
+      1763588307
     ],
-    "wof:lastmodified": 1692116106,
+    "wof:lastmodified": 1692117029,
     "wof:name": "UA1301 (ORD-SFO)",
     "wof:parent_id": 1763588307,
     "wof:placetype": "custom",
