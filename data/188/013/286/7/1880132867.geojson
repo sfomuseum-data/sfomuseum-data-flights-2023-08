@@ -2,10 +2,12 @@
   "id": 1880132867,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-15",
+    "date:cessation_upper": "2023-08-15",
     "date:inception_lower": "2023-08-15",
     "date:inception_upper": "2023-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-15",
+    "edtf:cessation": "2023-08-15T06:59:24Z",
+    "edtf:inception": "2023-08-15T04:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-08-15",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46277912"
+    },
     "wof:country": "US",
     "wof:created": 1692202438,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -86,7 +91,7 @@
       1159285591,
       1763588191
     ],
-    "wof:lastmodified": 1692202438,
+    "wof:lastmodified": 1692218039,
     "wof:name": "WN962 (DEN-SFO)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

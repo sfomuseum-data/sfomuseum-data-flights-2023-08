@@ -2,10 +2,12 @@
   "id": 1880131643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-15",
+    "date:cessation_upper": "2023-08-15",
     "date:inception_lower": "2023-08-15",
     "date:inception_upper": "2023-08-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-15",
+    "edtf:cessation": "2023-08-15T05:00:33-07:00",
+    "edtf:inception": "2023-08-15T18:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230815-A-AMX-3668",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N325US",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46336524",
+      "swim:gufi": "KL62272300"
+    },
     "wof:country": "US",
     "wof:created": 1692202141,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880131643,
     "wof:involves": [
+      1159283539,
+      1159292085,
       102527513,
       102533795,
       1159284261,
-      1763588253,
-      1159283539
+      1763588253
     ],
-    "wof:lastmodified": 1692202141,
+    "wof:lastmodified": 1692218037,
     "wof:name": "DL2272 (LAX-SFO)",
     "wof:parent_id": 1763588253,
     "wof:placetype": "custom",
