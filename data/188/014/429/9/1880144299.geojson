@@ -2,10 +2,12 @@
   "id": 1880144299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2023-08-16",
     "date:inception_upper": "2023-08-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-16",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-08-16T01:30:22-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2023-08-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N3771K",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1880144299,
     "wof:involves": [
-      102527363,
       102527513,
       1159284261,
-      1763588245
+      1763588245,
+      1159289871,
+      102527363
     ],
-    "wof:lastmodified": 1692289541,
+    "wof:lastmodified": 1692289818,
     "wof:name": "DL9889 (SFO-SLC)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",
