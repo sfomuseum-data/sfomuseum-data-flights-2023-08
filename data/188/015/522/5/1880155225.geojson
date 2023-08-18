@@ -2,10 +2,12 @@
   "id": 1880155225,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-17",
+    "date:cessation_upper": "2023-08-17",
     "date:inception_lower": "2023-08-17",
     "date:inception_upper": "2023-08-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-17",
+    "edtf:cessation": "2023-08-17T23:45:00Z",
+    "edtf:inception": "2023-08-17T22:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2023-08-17",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46585434"
+    },
     "wof:country": "US",
     "wof:created": 1692375287,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -86,7 +91,7 @@
       1159285591,
       1763588185
     ],
-    "wof:lastmodified": 1692375287,
+    "wof:lastmodified": 1692376308,
     "wof:name": "WN3363 (LAS-SFO)",
     "wof:parent_id": 1763588185,
     "wof:placetype": "custom",

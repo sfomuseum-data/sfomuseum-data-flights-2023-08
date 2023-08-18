@@ -2,10 +2,12 @@
   "id": 1880153939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-17",
+    "date:cessation_upper": "2023-08-17",
     "date:inception_lower": "2023-08-17",
     "date:inception_upper": "2023-08-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-17",
+    "edtf:cessation": "2023-08-17T02:10:05-07:00",
+    "edtf:inception": "2023-08-17T14:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230817-A-KAL-6746",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N3771K",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46533292",
+      "swim:gufi": "KU48059500"
+    },
     "wof:country": "US",
     "wof:created": 1692374974,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1880153939,
     "wof:involves": [
-      102527513,
       102527363,
       1159284261,
       1763588243,
-      1159284625
+      1159284625,
+      1159289871,
+      102527513
     ],
-    "wof:lastmodified": 1692374974,
+    "wof:lastmodified": 1692376306,
     "wof:name": "DL2806 (SLC-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

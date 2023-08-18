@@ -2,10 +2,12 @@
   "id": 1880157733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-17",
+    "date:cessation_upper": "2023-08-17",
     "date:inception_lower": "2023-08-17",
     "date:inception_upper": "2023-08-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-17",
+    "edtf:cessation": "2023-08-17T08:43:34Z",
+    "edtf:inception": "2023-08-17T03:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "46498723"
+    },
     "wof:country": "US",
     "wof:created": 1692375918,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -56,7 +61,7 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1692375918,
+    "wof:lastmodified": 1692376314,
     "wof:name": "AS556 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
