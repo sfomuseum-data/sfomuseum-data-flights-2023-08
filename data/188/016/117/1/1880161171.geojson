@@ -2,10 +2,12 @@
   "id": 1880161171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-18",
+    "date:cessation_upper": "2023-08-18",
     "date:inception_lower": "2023-08-18",
     "date:inception_upper": "2023-08-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-18",
+    "edtf:cessation": "2023-08-18T02:43:17Z",
+    "edtf:inception": "2023-08-18T01:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46605367"
+    },
     "wof:country": "US",
     "wof:created": 1692461348,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,7 +97,7 @@
       1763588249,
       1159283539
     ],
-    "wof:lastmodified": 1692461348,
+    "wof:lastmodified": 1692462609,
     "wof:name": "DL2061 (SEA-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

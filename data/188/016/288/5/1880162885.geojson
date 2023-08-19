@@ -2,10 +2,12 @@
   "id": 1880162885,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-18",
+    "date:cessation_upper": "2023-08-18",
     "date:inception_lower": "2023-08-18",
     "date:inception_upper": "2023-08-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-18",
+    "edtf:cessation": "2023-08-18T07:57:57-07:00",
+    "edtf:inception": "2023-08-18T21:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230818-A-ANZ-9609",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N498UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46704264",
+      "swim:gufi": "KL63818600"
+    },
     "wof:country": "US",
     "wof:created": 1692461759,
     "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880162885,
     "wof:involves": [
+      1763588337,
+      1159283697,
+      1159292085,
       102527513,
       102527337,
-      1159285413,
-      1763588337,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1692461759,
+    "wof:lastmodified": 1692462601,
     "wof:name": "UA477 (SBA-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
