@@ -2,10 +2,12 @@
   "id": 1880181119,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-21",
+    "date:cessation_upper": "2023-08-21",
     "date:inception_lower": "2023-08-21",
     "date:inception_upper": "2023-08-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-21",
+    "edtf:cessation": "2023-08-21T12:23:03-07:00",
+    "edtf:inception": "2023-08-21T01:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "ASA",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230821-A-BAW-7607",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N924VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46946232"
+    },
     "wof:country": "US",
     "wof:created": 1692720427,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880181119,
     "wof:involves": [
+      1377564297,
       102527513,
       102533795,
       1159283813,
       1763588149,
       1159284021
     ],
-    "wof:lastmodified": 1692720427,
+    "wof:lastmodified": 1692721833,
     "wof:name": "AS1309 (LAX-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

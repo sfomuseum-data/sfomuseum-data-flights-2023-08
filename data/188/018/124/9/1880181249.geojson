@@ -2,10 +2,12 @@
   "id": 1880181249,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-21",
+    "date:cessation_upper": "2023-08-21",
     "date:inception_lower": "2023-08-21",
     "date:inception_upper": "2023-08-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-21",
+    "edtf:cessation": "2023-08-21T04:32:00Z",
+    "edtf:inception": "2023-08-21T01:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.610733,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "SIA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230821-A-SIA-1383",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N291BT",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46946722"
+    },
     "wof:country": "US",
     "wof:created": 1692720457,
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880181249,
     "wof:involves": [
+      1528104577,
       102527513,
       102525799,
       1159283813,
       1763588141,
       1159286259
     ],
-    "wof:lastmodified": 1692720457,
+    "wof:lastmodified": 1692721833,
     "wof:name": "AS399 (DAL-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

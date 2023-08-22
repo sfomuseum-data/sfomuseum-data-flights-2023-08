@@ -2,10 +2,12 @@
   "id": 1880185693,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-21",
+    "date:cessation_upper": "2023-08-21",
     "date:inception_lower": "2023-08-21",
     "date:inception_upper": "2023-08-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-21",
+    "edtf:cessation": "2023-08-21T01:13:28Z",
+    "edtf:inception": "2023-08-21T00:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.614792,
     "lbl:longitude": -122.382166,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20230821-D-KAL-7259",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46936813",
+      "swim:gufi": "KO79791100"
+    },
     "wof:country": "US",
     "wof:created": 1692721515,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880185693,
     "wof:involves": [
+      1763588255,
+      1159284625,
+      1159292085,
       102533795,
       102527513,
-      1159284261,
-      1763588255,
-      1159284625
+      1159284261
     ],
-    "wof:lastmodified": 1692721515,
+    "wof:lastmodified": 1692721830,
     "wof:name": "DL2267 (SFO-LAX)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",

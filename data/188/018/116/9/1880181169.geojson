@@ -2,10 +2,12 @@
   "id": 1880181169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-21",
+    "date:cessation_upper": "2023-08-21",
     "date:inception_lower": "2023-08-21",
     "date:inception_upper": "2023-08-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-21",
+    "edtf:cessation": "2023-08-21T05:12:00Z",
+    "edtf:inception": "2023-08-21T01:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230821-A-QTR-2179",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N549AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "46947263"
+    },
     "wof:country": "US",
     "wof:created": 1692720439,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1880181169,
     "wof:involves": [
+      1763588147,
+      1159286153,
+      1159289871,
       102527513,
       102533631,
-      1159283813,
-      1763588147,
-      1159286153
+      1159283813
     ],
-    "wof:lastmodified": 1692720439,
+    "wof:lastmodified": 1692721833,
     "wof:name": "AS331 (ORD-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",
