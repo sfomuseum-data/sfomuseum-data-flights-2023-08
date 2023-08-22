@@ -1,0 +1,69 @@
+{
+  "id": 1880186745,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-08-21",
+    "date:inception_upper": "2023-08-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-08-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SY",
+    "flysfo:date": "2023-08-21",
+    "flysfo:estimated_timestamp": 1692648600,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "SY8754",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DEN",
+    "flysfo:scheduled_timestamp": 1692648900,
+    "flysfo:timestamp": 1692648900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
+    "iata:airline": "SY",
+    "icao:airline": "SCX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285227,
+    "sfomuseum:arrival_id": 102531189,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20230821-D-SCX-8754",
+    "sfomuseum:flight_number": [
+      "SCX8754",
+      "SY8754"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1692721764,
+    "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880186745
+      }
+    ],
+    "wof:id": 1880186745,
+    "wof:involves": [
+      102531189,
+      102527513,
+      1159285227,
+      -1
+    ],
+    "wof:lastmodified": 1692721764,
+    "wof:name": "SY8754 (SFO-DEN)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -104.672219,
+    39.864939
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}
+}

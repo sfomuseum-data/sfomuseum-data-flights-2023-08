@@ -1,0 +1,69 @@
+{
+  "id": 1880182897,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-08-21",
+    "date:inception_upper": "2023-08-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-08-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2023-08-21",
+    "flysfo:estimated_timestamp": 1692687240,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "WN426",
+    "flysfo:gate": "",
+    "flysfo:journey": "DEN-SFO",
+    "flysfo:scheduled_timestamp": 1692678600,
+    "flysfo:timestamp": 1692687240,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531189,
+    "sfomuseum:flight_id": "20230821-A-SWA-426",
+    "sfomuseum:flight_number": [
+      "SWA426",
+      "WN426"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1692720851,
+    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880182897
+      }
+    ],
+    "wof:id": 1880182897,
+    "wof:involves": [
+      102527513,
+      102531189,
+      1159285591,
+      -1
+    ],
+    "wof:lastmodified": 1692720851,
+    "wof:name": "WN426 (DEN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -104.672219,
+    39.864939
+  ],
+  "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
