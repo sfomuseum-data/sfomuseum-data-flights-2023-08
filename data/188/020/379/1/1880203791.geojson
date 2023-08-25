@@ -2,10 +2,12 @@
   "id": 1880203791,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-25",
+    "date:cessation_upper": "2023-08-25",
     "date:inception_lower": "2023-08-24",
     "date:inception_upper": "2023-08-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-24",
+    "edtf:cessation": "2023-08-25T00:48:29Z",
+    "edtf:inception": "2023-08-24T12:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "IB",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -60.1448105,
     "iata:airline": "IB",
     "iata:base_airline": "",
+    "icao:aircraft": "A332",
     "icao:airline": "IBE",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.611747,
     "lbl:longitude": -122.39043,
+    "sfomuseum:aircraft_id": 1159289421,
     "sfomuseum:airline_id": 1159284511,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230824-A-AAL-8839",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "ECNRG",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "47283035"
+    },
     "wof:country": "US",
     "wof:created": 1692979907,
     "wof:geomhash": "7a64189ee84e1d057c670ad6a60700c7",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1880203791,
     "wof:involves": [
+      1763588419,
+      1159283849,
+      1159289421,
       102527513,
       102545733,
-      1159284511,
-      1763588419,
-      1159283849
+      1159284511
     ],
-    "wof:lastmodified": 1692979907,
+    "wof:lastmodified": 1692981130,
     "wof:name": "IB2621 (BCN-SFO)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",
