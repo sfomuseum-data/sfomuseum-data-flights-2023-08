@@ -2,10 +2,12 @@
   "id": 1880215987,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-08-25",
-    "date:inception_upper": "2023-08-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-25",
+    "date:cessation_lower": "2023-08-26",
+    "date:cessation_upper": "2023-08-26",
+    "date:inception_lower": "2023-08-26",
+    "date:inception_upper": "2023-08-26",
+    "edtf:cessation": "2023-08-26T07:29:00Z",
+    "edtf:inception": "2023-08-26T03:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:date": "2023-08-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
+    "icao:aircraft": "B788",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289995,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGHPU",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "47473665",
+      "swim:gufi": "KO81028600"
+    },
     "wof:country": "US",
     "wof:created": 1693254593,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1880215987,
     "wof:involves": [
+      1159289995,
       102555091,
       102527513,
-      1159283597,
-      -1
+      1159283597
     ],
-    "wof:lastmodified": 1693254593,
+    "wof:lastmodified": 1693255496,
     "wof:name": "AC7060 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
