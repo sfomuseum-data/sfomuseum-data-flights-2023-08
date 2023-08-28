@@ -1,0 +1,69 @@
+{
+  "id": 1880214851,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-08-25",
+    "date:inception_upper": "2023-08-25",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-08-25",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2023-08-25",
+    "flysfo:estimated_timestamp": 1693009200,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA507R",
+    "flysfo:gate": "",
+    "flysfo:journey": "FCO-SFO",
+    "flysfo:scheduled_timestamp": 1693005600,
+    "flysfo:timestamp": 1693009200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,12.245178,41.796892",
+    "geom:latitude": 39.707441,
+    "geom:longitude": -55.0628825,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102547941,
+    "sfomuseum:flight_id": "20230825-A-UAL-507R",
+    "sfomuseum:flight_number": [
+      "UAL507R",
+      "UA507R"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1693254316,
+    "wof:geomhash": "83e3cf2d6d5d57bb8b348faf86770f57",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880214851
+      }
+    ],
+    "wof:id": 1880214851,
+    "wof:involves": [
+      102527513,
+      102547941,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1693254316,
+    "wof:name": "UA507R (FCO-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    12.245178,
+    41.796892
+  ],
+  "geometry": {"coordinates":[[12.245178,41.796892],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
