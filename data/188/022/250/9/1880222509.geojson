@@ -2,10 +2,12 @@
   "id": 1880222509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-26",
+    "date:cessation_upper": "2023-08-26",
     "date:inception_lower": "2023-08-26",
     "date:inception_upper": "2023-08-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-26",
+    "edtf:cessation": "2023-08-26T07:22:00Z",
+    "edtf:inception": "2023-08-26T06:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230826-A-ANZ-9272",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "47486416",
+      "swim:gufi": "KL11819700"
+    },
     "wof:country": "US",
     "wof:created": 1693256517,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1880222509,
     "wof:involves": [
-      102527513,
       102533795,
       1159285413,
       1763588283,
-      1159283697
+      1159283697,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1693256517,
+    "wof:lastmodified": 1693257734,
     "wof:name": "UA1597 (LAX-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",

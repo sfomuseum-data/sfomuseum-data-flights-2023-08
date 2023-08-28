@@ -2,10 +2,12 @@
   "id": 1880222605,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-26",
+    "date:cessation_upper": "2023-08-26",
     "date:inception_lower": "2023-08-26",
     "date:inception_upper": "2023-08-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-26",
+    "edtf:cessation": "2023-08-26T10:35:10-07:00",
+    "edtf:inception": "2023-08-26T23:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20230826-A-DLH-7853",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N36476",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "47574560",
+      "swim:gufi": "KL71930700"
+    },
     "wof:country": "US",
     "wof:created": 1693256540,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -90,9 +104,10 @@
       102527209,
       1159285413,
       1763588341,
-      1159286015
+      1159286015,
+      1377564285
     ],
-    "wof:lastmodified": 1693256540,
+    "wof:lastmodified": 1693257736,
     "wof:name": "UA2047 (LAS-SFO)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",
