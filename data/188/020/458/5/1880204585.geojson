@@ -45,6 +45,7 @@
     "src:geom": "flysfo",
     "src:geom_alt": [
       "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "9VSJC",
@@ -95,14 +96,14 @@
     ],
     "wof:id": 1880204585,
     "wof:involves": [
+      1763588461,
+      1159283649,
       1377564293,
       102527513,
       102551593,
-      1159286259,
-      1763588461,
-      1159283649
+      1159286259
     ],
-    "wof:lastmodified": 1692981116,
+    "wof:lastmodified": 1693247827,
     "wof:name": "SQ32 (SIN-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

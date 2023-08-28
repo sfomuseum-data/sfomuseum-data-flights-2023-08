@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-08-25",
     "date:cessation_upper": "2023-08-25",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2023-08-25",
+    "date:inception_upper": "2023-08-25",
     "edtf:cessation": "2023-08-24T23:54:01-07:00",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-08-25T03:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N796UA",
@@ -61,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO44765600"
+    },
     "wof:country": "US",
     "wof:created": 1692980285,
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
@@ -101,7 +106,7 @@
       1763588437,
       1159283917
     ],
-    "wof:lastmodified": 1692981120,
+    "wof:lastmodified": 1693247832,
     "wof:name": "UA806 (ICN-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

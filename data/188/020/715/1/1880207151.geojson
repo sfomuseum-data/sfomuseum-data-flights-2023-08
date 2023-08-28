@@ -98,14 +98,14 @@
     ],
     "wof:id": 1880207151,
     "wof:involves": [
+      102533997,
+      1377564285,
       102527513,
       1159283813,
       1763588131,
-      1159283849,
-      1377564285,
-      102533997
+      1159283849
     ],
-    "wof:lastmodified": 1692981134,
+    "wof:lastmodified": 1693247847,
     "wof:name": "AS870 (SFO-HNL)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

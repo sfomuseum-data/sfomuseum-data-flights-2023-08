@@ -99,14 +99,14 @@
     ],
     "wof:id": 1880203307,
     "wof:involves": [
-      1159289993,
-      102527513,
       102541737,
       1159284127,
       1763588411,
-      1159283849
+      1159283849,
+      1159289993,
+      102527513
     ],
-    "wof:lastmodified": 1692981113,
+    "wof:lastmodified": 1693247824,
     "wof:name": "CX872 (HKG-SFO)",
     "wof:parent_id": 1763588411,
     "wof:placetype": "custom",

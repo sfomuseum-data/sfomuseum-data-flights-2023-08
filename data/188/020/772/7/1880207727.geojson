@@ -58,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO19952600"
+    },
     "wof:country": "US",
     "wof:created": 1692980849,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -91,13 +94,13 @@
     ],
     "wof:id": 1880207727,
     "wof:involves": [
+      1377564295,
       102527513,
       1159284401,
       1763588419,
-      1377564295,
       102526927
     ],
-    "wof:lastmodified": 1692981126,
+    "wof:lastmodified": 1693247838,
     "wof:name": "F91524 (SFO-ATL)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

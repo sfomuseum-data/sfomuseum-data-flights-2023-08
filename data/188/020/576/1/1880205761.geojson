@@ -99,14 +99,14 @@
     ],
     "wof:id": 1880205761,
     "wof:involves": [
+      1159289869,
       102527513,
       102554947,
       1159285523,
       1763588215,
-      1159283539,
-      1159289869
+      1159283539
     ],
-    "wof:lastmodified": 1692981133,
+    "wof:lastmodified": 1693247846,
     "wof:name": "WS1520 (YYC-SFO)",
     "wof:parent_id": 1763588215,
     "wof:placetype": "custom",

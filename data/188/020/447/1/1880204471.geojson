@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
       "swim-path",
       "swim-approach"
     ],
@@ -90,13 +91,13 @@
     ],
     "wof:id": 1880204471,
     "wof:involves": [
-      1159285227,
       1763588431,
-      1159289871,
       102527513,
-      102531131
+      102531131,
+      1159289871,
+      1159285227
     ],
-    "wof:lastmodified": 1692981131,
+    "wof:lastmodified": 1693247844,
     "wof:name": "SY397 (MSP-SFO)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",

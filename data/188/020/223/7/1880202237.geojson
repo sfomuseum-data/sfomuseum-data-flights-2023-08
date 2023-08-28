@@ -39,6 +39,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "XAADT",
@@ -89,13 +91,13 @@
     ],
     "wof:id": 1880202237,
     "wof:involves": [
+      1159289871,
       102527513,
       102536579,
       1159283539,
-      1763588407,
-      1159289871
+      1763588407
     ],
-    "wof:lastmodified": 1692981128,
+    "wof:lastmodified": 1693247842,
     "wof:name": "AM664 (MEX-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

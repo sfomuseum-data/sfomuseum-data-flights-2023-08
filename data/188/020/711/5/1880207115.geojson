@@ -2,11 +2,11 @@
   "id": 1880207115,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1970-01-01",
-    "date:cessation_upper": "1970-01-01",
+    "date:cessation_lower": "2023-08-25",
+    "date:cessation_upper": "2023-08-25",
     "date:inception_lower": "2023-08-24",
     "date:inception_upper": "2023-08-24",
-    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:cessation": "2023-08-25T11:27:19Z",
     "edtf:inception": "2023-08-24T16:47:41-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
@@ -103,7 +103,7 @@
       1159286153,
       1528104577
     ],
-    "wof:lastmodified": 1692981124,
+    "wof:lastmodified": 1693247836,
     "wof:name": "AS42 (SFO-JFK)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

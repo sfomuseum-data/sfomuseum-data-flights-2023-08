@@ -98,14 +98,14 @@
     ],
     "wof:id": 1880204979,
     "wof:involves": [
+      1528104577,
       102527513,
       102533795,
       1159285413,
       1763588347,
-      1159284211,
-      1528104577
+      1159284211
     ],
-    "wof:lastmodified": 1692981118,
+    "wof:lastmodified": 1693247830,
     "wof:name": "UA1995 (LAX-SFO)",
     "wof:parent_id": 1763588347,
     "wof:placetype": "custom",

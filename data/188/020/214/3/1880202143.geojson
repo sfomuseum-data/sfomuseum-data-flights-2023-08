@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2023-08-24",
     "date:cessation_upper": "2023-08-24",
-    "date:inception_lower": "1970-01-01",
-    "date:inception_upper": "1970-01-01",
+    "date:inception_lower": "2023-08-25",
+    "date:inception_upper": "2023-08-25",
     "edtf:cessation": "2023-08-24T15:49:12-07:00",
-    "edtf:inception": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2023-08-25T00:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "CFSIL",
@@ -61,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KC85074500"
+    },
     "wof:country": "US",
     "wof:created": 1692979474,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -94,14 +99,14 @@
     ],
     "wof:id": 1880202143,
     "wof:involves": [
-      1528104575,
       102527513,
       102555091,
       1159283597,
       1763588159,
-      1159283697
+      1159283697,
+      1528104575
     ],
-    "wof:lastmodified": 1692981127,
+    "wof:lastmodified": 1693247841,
     "wof:name": "AC745 (YYZ-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

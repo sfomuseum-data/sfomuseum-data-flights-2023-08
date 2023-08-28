@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "B18771",
@@ -58,7 +59,7 @@
       102533795,
       1159284153
     ],
-    "wof:lastmodified": 1692981113,
+    "wof:lastmodified": 1693247824,
     "wof:name": "CI5107 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

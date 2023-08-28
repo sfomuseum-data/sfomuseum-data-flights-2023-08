@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880204827,
     "wof:involves": [
+      1528104577,
       102554947,
       1159285413,
       1763588287,
       1159283697,
-      1528104577,
       102527513
     ],
-    "wof:lastmodified": 1692981117,
+    "wof:lastmodified": 1693247828,
     "wof:name": "UA1066 (YYC-SFO)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",

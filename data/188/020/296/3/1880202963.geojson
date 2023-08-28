@@ -99,14 +99,14 @@
     ],
     "wof:id": 1880202963,
     "wof:involves": [
+      1528104577,
       102527513,
       102532929,
       1159283813,
       1763588149,
-      1159283849,
-      1528104577
+      1159283849
     ],
-    "wof:lastmodified": 1692981129,
+    "wof:lastmodified": 1693247823,
     "wof:name": "AS878 (OGG-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

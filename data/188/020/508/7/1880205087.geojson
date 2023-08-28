@@ -44,6 +44,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
       "swim-path",
       "swim-approach"
     ],
@@ -98,14 +99,14 @@
     ],
     "wof:id": 1880205087,
     "wof:involves": [
+      1159289407,
       1763588149,
       1159283917,
-      1159289407,
       102527513,
       102527363,
       1159285413
     ],
-    "wof:lastmodified": 1692981119,
+    "wof:lastmodified": 1693247831,
     "wof:name": "UA2615 (SLC-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

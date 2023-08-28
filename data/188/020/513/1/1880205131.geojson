@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880205131,
     "wof:involves": [
-      1159289939,
       102527513,
       102530741,
       1159285413,
       1763588319,
-      1159283697
+      1159283697,
+      1159289939
     ],
-    "wof:lastmodified": 1692981132,
+    "wof:lastmodified": 1693247845,
     "wof:name": "UA433 (BOS-SFO)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

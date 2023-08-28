@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
       "swim-path",
       "swim-takeoff"
     ],
@@ -93,13 +94,13 @@
     ],
     "wof:id": 1880207729,
     "wof:involves": [
-      1763588427,
       1159289411,
+      1763588427,
       102527209,
       102527513,
       1159284401
     ],
-    "wof:lastmodified": 1692981126,
+    "wof:lastmodified": 1693247838,
     "wof:name": "F92080 (SFO-LAS)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

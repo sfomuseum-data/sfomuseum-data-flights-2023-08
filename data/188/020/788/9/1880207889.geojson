@@ -91,13 +91,13 @@
     ],
     "wof:id": 1880207889,
     "wof:involves": [
+      1377564297,
       102532929,
       102527513,
       1159284489,
-      1763588419,
-      1377564297
+      1763588419
     ],
-    "wof:lastmodified": 1692981126,
+    "wof:lastmodified": 1693247847,
     "wof:name": "HA41 (SFO-OGG)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

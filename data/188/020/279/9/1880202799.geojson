@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N408AS",
@@ -94,14 +96,14 @@
     ],
     "wof:id": 1880202799,
     "wof:involves": [
-      1377564285,
       102527513,
       102533269,
       1159283813,
       1763588135,
-      1159284021
+      1159284021,
+      1377564285
     ],
-    "wof:lastmodified": 1692981113,
+    "wof:lastmodified": 1693247822,
     "wof:name": "AS1313 (SEA-SFO)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

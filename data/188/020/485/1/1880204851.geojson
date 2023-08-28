@@ -44,6 +44,8 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "src:geom_alt": [
+      "swim-route",
+      "swim-path",
       "swim-approach"
     ],
     "swim:tail_number": "N27015",
@@ -97,14 +99,14 @@
     ],
     "wof:id": 1880204851,
     "wof:involves": [
-      1159285129,
-      1159289985,
-      102527513,
       102530049,
       1159285413,
-      1763588317
+      1763588317,
+      1159289985,
+      1159285129,
+      102527513
     ],
-    "wof:lastmodified": 1692981131,
+    "wof:lastmodified": 1693247844,
     "wof:name": "UA1209 (EWR-SFO)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",

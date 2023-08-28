@@ -100,14 +100,14 @@
     ],
     "wof:id": 1880205029,
     "wof:involves": [
-      1528104577,
       102527513,
       102531023,
       1159285413,
       1763588341,
-      1159283697
+      1159283697,
+      1528104577
     ],
-    "wof:lastmodified": 1692981118,
+    "wof:lastmodified": 1693247830,
     "wof:name": "UA2220 (MIA-SFO)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",
