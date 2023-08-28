@@ -102,12 +102,12 @@
     "wof:involves": [
       1763588345,
       1159286015,
-      1159292085,
       102527513,
       102532251,
-      1159285413
+      1159285413,
+      1159292085
     ],
-    "wof:lastmodified": 1693247830,
+    "wof:lastmodified": 1693253165,
     "wof:name": "UA2096 (PDX-SFO)",
     "wof:parent_id": 1763588345,
     "wof:placetype": "custom",

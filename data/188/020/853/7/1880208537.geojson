@@ -91,13 +91,13 @@
     ],
     "wof:id": 1880208537,
     "wof:involves": [
+      102544207,
+      102527513,
       1159289423,
       1159285129,
-      1763588437,
-      102544207,
-      102527513
+      1763588437
     ],
-    "wof:lastmodified": 1693247840,
+    "wof:lastmodified": 1693253174,
     "wof:name": "SK936 (SFO-CPH)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

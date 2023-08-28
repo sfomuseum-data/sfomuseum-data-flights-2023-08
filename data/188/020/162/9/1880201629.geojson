@@ -101,13 +101,13 @@
     "wof:id": 1880201629,
     "wof:involves": [
       102528659,
-      1159289411,
       1159283849,
       1763588227,
       1159283717,
-      102527513
+      102527513,
+      1159289411
     ],
-    "wof:lastmodified": 1693247822,
+    "wof:lastmodified": 1693253148,
     "wof:name": "AA2378 (CLT-SFO)",
     "wof:parent_id": 1763588227,
     "wof:placetype": "custom",

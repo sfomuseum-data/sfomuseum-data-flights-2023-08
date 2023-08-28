@@ -94,13 +94,13 @@
     ],
     "wof:id": 1880202781,
     "wof:involves": [
-      1377564285,
-      102527513,
       102533269,
       1159283813,
-      1763588143
+      1763588143,
+      1377564285,
+      102527513
     ],
-    "wof:lastmodified": 1693247842,
+    "wof:lastmodified": 1693253156,
     "wof:name": "AS1082 (SEA-SFO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

@@ -99,14 +99,14 @@
     ],
     "wof:id": 1880203747,
     "wof:involves": [
-      1159284489,
       1763588203,
-      1159289421,
       1159284583,
       102527513,
-      102533997
+      102533997,
+      1159289421,
+      1159284489
     ],
-    "wof:lastmodified": 1693247826,
+    "wof:lastmodified": 1693253174,
     "wof:name": "HA12 (HNL-SFO)",
     "wof:parent_id": 1763588203,
     "wof:placetype": "custom",

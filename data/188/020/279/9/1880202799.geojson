@@ -96,14 +96,14 @@
     ],
     "wof:id": 1880202799,
     "wof:involves": [
+      1377564285,
       102527513,
       102533269,
       1159283813,
       1763588135,
-      1159284021,
-      1377564285
+      1159284021
     ],
-    "wof:lastmodified": 1693247822,
+    "wof:lastmodified": 1693253157,
     "wof:name": "AS1313 (SEA-SFO)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

@@ -58,12 +58,12 @@
     ],
     "wof:id": 1880208085,
     "wof:involves": [
-      1159284625,
       1159293239,
+      1159284625,
       102556451,
       102527513
     ],
-    "wof:lastmodified": 1693247839,
+    "wof:lastmodified": 1693253173,
     "wof:name": "KE214 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

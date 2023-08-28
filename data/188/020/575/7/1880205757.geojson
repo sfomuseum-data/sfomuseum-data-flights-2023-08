@@ -96,14 +96,14 @@
     ],
     "wof:id": 1880205757,
     "wof:involves": [
-      1159283539,
       102527513,
       102554947,
       1159285523,
+      1763588215,
       1528104575,
-      1763588215
+      1159283539
     ],
-    "wof:lastmodified": 1693247833,
+    "wof:lastmodified": 1693253167,
     "wof:name": "WS1508 (YYC-SFO)",
     "wof:parent_id": 1763588215,
     "wof:placetype": "custom",

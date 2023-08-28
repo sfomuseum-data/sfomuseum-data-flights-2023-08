@@ -96,12 +96,12 @@
     "wof:id": 1880205413,
     "wof:involves": [
       1763588449,
-      1159289993,
       102527513,
       102542687,
-      1159285413
+      1159285413,
+      1159289993
     ],
-    "wof:lastmodified": 1693247832,
+    "wof:lastmodified": 1693253167,
     "wof:name": "UA955 (TLV-SFO)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",

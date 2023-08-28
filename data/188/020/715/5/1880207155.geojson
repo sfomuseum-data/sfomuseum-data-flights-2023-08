@@ -95,14 +95,14 @@
     ],
     "wof:id": 1880207155,
     "wof:involves": [
-      102532929,
       102527513,
-      1528104577,
       1159283813,
       1763588135,
-      1159283849
+      1159283849,
+      1528104577,
+      102532929
     ],
-    "wof:lastmodified": 1693247836,
+    "wof:lastmodified": 1693253170,
     "wof:name": "AS879 (SFO-OGG)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

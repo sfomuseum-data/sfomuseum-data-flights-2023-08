@@ -99,14 +99,14 @@
     ],
     "wof:id": 1880202773,
     "wof:involves": [
-      1377564285,
       102527513,
       102532251,
       1159283813,
       1763588143,
-      1159283849
+      1159283849,
+      1377564285
     ],
-    "wof:lastmodified": 1693247842,
+    "wof:lastmodified": 1693253156,
     "wof:name": "AS1044 (PDX-SFO)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",
