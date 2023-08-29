@@ -2,10 +2,12 @@
   "id": 1880244451,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-28",
+    "date:cessation_upper": "2023-08-28",
     "date:inception_lower": "2023-08-28",
     "date:inception_upper": "2023-08-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-28",
+    "edtf:cessation": "2023-08-28T10:56:32Z",
+    "edtf:inception": "2023-08-28T06:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "47710208"
+    },
     "wof:country": "US",
     "wof:created": 1693326880,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -92,7 +97,7 @@
       1763588287,
       1159283697
     ],
-    "wof:lastmodified": 1693326880,
+    "wof:lastmodified": 1693327170,
     "wof:name": "UA2615 (SFO-TPA)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",
