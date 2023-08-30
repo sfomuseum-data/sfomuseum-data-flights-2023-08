@@ -2,10 +2,12 @@
   "id": 1880248807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-29",
+    "date:cessation_upper": "2023-08-29",
     "date:inception_lower": "2023-08-29",
     "date:inception_upper": "2023-08-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-29",
+    "edtf:cessation": "2023-08-29T23:25:15Z",
+    "edtf:inception": "2023-08-29T12:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "EI",
     "flysfo:date": "2023-08-29",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "47950982"
+    },
     "wof:country": "US",
     "wof:created": 1693411875,
     "wof:geomhash": "aecdd4fa1f8944d2eefd3273b1547edd",
@@ -50,7 +55,7 @@
       1159283495,
       -1
     ],
-    "wof:lastmodified": 1693411875,
+    "wof:lastmodified": 1693413424,
     "wof:name": "EI961 (DUB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

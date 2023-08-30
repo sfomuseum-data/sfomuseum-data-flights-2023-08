@@ -2,10 +2,12 @@
   "id": 1880252193,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-30",
+    "date:cessation_upper": "2023-08-30",
     "date:inception_lower": "2023-08-29",
     "date:inception_upper": "2023-08-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-29",
+    "edtf:cessation": "2023-08-30T03:21:00Z",
+    "edtf:inception": "2023-08-29T22:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "47870827"
+    },
     "wof:country": "US",
     "wof:created": 1693412692,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -92,7 +97,7 @@
       1763588135,
       1159283849
     ],
-    "wof:lastmodified": 1693412692,
+    "wof:lastmodified": 1693413429,
     "wof:name": "AS434 (SFO-IAD)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

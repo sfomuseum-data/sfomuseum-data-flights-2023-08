@@ -2,10 +2,12 @@
   "id": 1880253913,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-29",
+    "date:cessation_upper": "2023-08-29",
     "date:inception_lower": "2023-08-29",
     "date:inception_upper": "2023-08-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-29",
+    "edtf:cessation": "2023-08-29T05:21:13Z",
+    "edtf:inception": "2023-08-29T03:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "47799353"
+    },
     "wof:country": "US",
     "wof:created": 1693413105,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -92,7 +97,7 @@
       1763588353,
       1159283597
     ],
-    "wof:lastmodified": 1693413105,
+    "wof:lastmodified": 1693413440,
     "wof:name": "UA1201 (SFO-PHX)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",
