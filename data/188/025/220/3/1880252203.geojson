@@ -1,0 +1,69 @@
+{
+  "id": 1880252203,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-08-29",
+    "date:inception_upper": "2023-08-29",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-08-29",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2023-08-29",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS556",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-IAD",
+    "flysfo:scheduled_timestamp": 1693366800,
+    "flysfo:timestamp": 1693366800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
+    "geom:latitude": 38.283618000000004,
+    "geom:longitude": -99.9123225,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102528817,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20230829-D-ASA-556",
+    "sfomuseum:flight_number": [
+      "ASA556",
+      "AS556"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1693412694,
+    "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1880252203
+      }
+    ],
+    "wof:id": 1880252203,
+    "wof:involves": [
+      102528817,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1693412694,
+    "wof:name": "AS556 (SFO-IAD)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-08",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -77.453702,
+    38.949246
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}
+}
