@@ -2,10 +2,12 @@
   "id": 1880262487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-30",
+    "date:cessation_upper": "2023-08-30",
     "date:inception_lower": "2023-08-30",
     "date:inception_upper": "2023-08-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-30",
+    "edtf:cessation": "2023-08-30T11:03:09Z",
+    "edtf:inception": "2023-08-30T06:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "47932259"
+    },
     "wof:country": "US",
     "wof:created": 1693499573,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -92,7 +97,7 @@
       1763588343,
       1159283697
     ],
-    "wof:lastmodified": 1693499573,
+    "wof:lastmodified": 1693499857,
     "wof:name": "UA2416 (SFO-RDU)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",
