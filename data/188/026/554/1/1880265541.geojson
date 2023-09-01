@@ -2,10 +2,12 @@
   "id": 1880265541,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-31",
+    "date:cessation_upper": "2023-08-31",
     "date:inception_lower": "2023-08-31",
     "date:inception_upper": "2023-08-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-31",
+    "edtf:cessation": "2023-08-31T13:13:52-07:00",
+    "edtf:inception": "2023-08-31T23:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2023-08-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.302341999999996,
     "geom:longitude": -109.843519,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528591,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N291BT",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "48137841"
+    },
     "wof:country": "US",
     "wof:created": 1693584522,
     "wof:geomhash": "107e6589f8c1d0883959ee6339b5af3a",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1880265541,
     "wof:involves": [
+      1528104577,
       102527513,
       102528591,
-      1159283813,
-      -1
+      1159283813
     ],
-    "wof:lastmodified": 1693584522,
+    "wof:lastmodified": 1693586374,
     "wof:name": "AS9717 (AFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

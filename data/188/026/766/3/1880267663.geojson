@@ -2,10 +2,12 @@
   "id": 1880267663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-31",
+    "date:cessation_upper": "2023-08-31",
     "date:inception_lower": "2023-08-31",
     "date:inception_upper": "2023-08-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-08-31",
+    "edtf:cessation": "2023-08-31T08:55:29Z",
+    "edtf:inception": "2023-08-31T04:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-08-31",
@@ -48,6 +50,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "48041614"
+    },
     "wof:country": "US",
     "wof:created": 1693585040,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -86,7 +91,7 @@
       1159285413,
       1763588321
     ],
-    "wof:lastmodified": 1693585040,
+    "wof:lastmodified": 1693586394,
     "wof:name": "UA2554 (HNL-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",
