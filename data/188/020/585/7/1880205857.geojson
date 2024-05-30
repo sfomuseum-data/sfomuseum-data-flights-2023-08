@@ -40,6 +40,7 @@
     "wof:geomhash": "7977975fa4ad0a35973dcf84bbb5a31a",
     "wof:hierarchy": [
       {
+        "custom_id": 1880205857,
         "flight_id": 1880205857
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1692980404,
+    "wof:lastmodified": 1717045522,
     "wof:name": "AA2934 (SFO-BFL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

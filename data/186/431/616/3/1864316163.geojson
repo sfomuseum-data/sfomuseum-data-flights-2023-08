@@ -45,6 +45,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1864316163,
         "flight_id": 1864316163
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1377675597
     ],
-    "wof:lastmodified": 1691338823,
+    "wof:lastmodified": 1717045521,
     "wof:name": "NZ9111 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

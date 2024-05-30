@@ -54,6 +54,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1864290371,
         "flight_id": 1864290371
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       102533795
     ],
-    "wof:lastmodified": 1691080162,
+    "wof:lastmodified": 1717045512,
     "wof:name": "UA8200 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

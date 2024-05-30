@@ -53,6 +53,7 @@
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
+        "custom_id": 1880109303,
         "flight_id": 1880109303
       }
     ],
@@ -63,11 +64,13 @@
       102528997,
       1159285413
     ],
-    "wof:lastmodified": 1692030744,
+    "wof:lastmodified": 1717045518,
     "wof:name": "UA8115 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

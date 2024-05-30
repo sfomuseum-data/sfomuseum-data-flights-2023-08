@@ -45,6 +45,7 @@
     "wof:geomhash": "e7ff2fb91095fba743a409117e008e1c",
     "wof:hierarchy": [
       {
+        "custom_id": 1880229989,
         "flight_id": 1880229989
       }
     ],
@@ -55,11 +56,13 @@
       1159285227,
       -1
     ],
-    "wof:lastmodified": 1693264658,
+    "wof:lastmodified": 1717045528,
     "wof:name": "SY8723 (MKC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

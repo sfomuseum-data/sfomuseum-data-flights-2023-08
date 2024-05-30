@@ -51,6 +51,7 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
+        "custom_id": 1880182897,
         "flight_id": 1880182897
       }
     ],
@@ -61,11 +62,13 @@
       1159289871,
       102527513
     ],
-    "wof:lastmodified": 1692721824,
+    "wof:lastmodified": 1717045515,
     "wof:name": "WN426 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "107e6589f8c1d0883959ee6339b5af3a",
     "wof:hierarchy": [
       {
+        "custom_id": 1880265541,
         "flight_id": 1880265541
       }
     ],
@@ -63,11 +64,13 @@
       102528591,
       1159283813
     ],
-    "wof:lastmodified": 1693586374,
+    "wof:lastmodified": 1717045529,
     "wof:name": "AS9717 (AFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

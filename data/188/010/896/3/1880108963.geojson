@@ -51,6 +51,7 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
+        "custom_id": 1880108963,
         "flight_id": 1880108963
       }
     ],
@@ -61,11 +62,13 @@
       1159285413,
       1159289939
     ],
-    "wof:lastmodified": 1692030742,
+    "wof:lastmodified": 1717045517,
     "wof:name": "UA2310 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -50,6 +50,7 @@
     "wof:geomhash": "c97739d28e676f0ee62f6ec4585963c5",
     "wof:hierarchy": [
       {
+        "custom_id": 1880261643,
         "flight_id": 1880261643
       }
     ],
@@ -60,11 +61,13 @@
       102528187,
       102527513
     ],
-    "wof:lastmodified": 1693499849,
+    "wof:lastmodified": 1717045528,
     "wof:name": "MX259 (SFO-CVG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

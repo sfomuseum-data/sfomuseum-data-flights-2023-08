@@ -40,6 +40,7 @@
     "wof:geomhash": "dc56b2c846de1922adefc5feb6f75c92",
     "wof:hierarchy": [
       {
+        "custom_id": 1880117593,
         "flight_id": 1880117593
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1692116167,
+    "wof:lastmodified": 1717045515,
     "wof:name": "UA2935 (RDD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []

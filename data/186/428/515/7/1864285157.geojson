@@ -45,6 +45,7 @@
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
     "wof:hierarchy": [
       {
+        "custom_id": 1864285157,
         "flight_id": 1864285157
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284261
     ],
-    "wof:lastmodified": 1690993584,
+    "wof:lastmodified": 1717045516,
     "wof:name": "QF3974 (SFO-YYC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-08",
     "wof:superseded_by": [],
     "wof:supersedes": []
